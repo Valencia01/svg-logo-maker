@@ -3,9 +3,9 @@
      xmlns="http://www.w3.org/2000/svg">
 
     
-    <polygon points="150, 18 244, 182 56, 182" fill="red" />
-    <text x="150" y="140" font-size="50" text-anchor="middle" fill="blue">AJE</text>
+    <polygon points="150, 18 244, 182 56, 182" fill="#db2534" />
+    <text x="150" y="140" font-size="50" text-anchor="middle" fill="#d4669d">KVS</text>
     
 
-    </svg>
+</svg>
     
