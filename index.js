@@ -1,6 +1,4 @@
 //imports the inquire npm
-
-
 const inquirer = require('inquirer');
 const fs = require('fs');
 
@@ -67,10 +65,12 @@ const promptUser = () => {
     ]);
   };
 
-  //gets all the info from the other js file
+//gets all the info from the other js file
 function writeToFile(svg, data) {
   
     let currentShape;
+    
+    //this checks which shape the user chose to render it with the given text and color
     if(data.shape == "Circle" ){
       currentShape = new Circle(data.scolor, data.characters, data.tcolor)
     }

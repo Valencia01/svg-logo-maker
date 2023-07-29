@@ -3,6 +3,7 @@ const {Circle, Triangle, Square} = require('../utils/generateSVG');
 describe('Shapes', () => {
 
     let shape;
+    // each test that the shapes new color and ensures that it renders as expected
     describe('Circle', () => {
         it('The rendered shape should match the color given', () => {
 

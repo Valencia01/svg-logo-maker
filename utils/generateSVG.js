@@ -1,3 +1,4 @@
+// the constructor class for all the shapes to use
 class Shapes {
     constructor(color, text, textColor) {
       this.color = color;
@@ -6,6 +7,7 @@ class Shapes {
     }
   }
   
+// each class is only called if the user chose that shape then fills in the shape color, the text, and the text color
 class Circle extends Shapes {
     render () {
     return `
@@ -34,7 +36,7 @@ class Square extends Shapes {
   }
 }
 
-
+// this generates the svg file with the rendered shape
 function generateSVG(data) {
     
     return `<svg version="1.1"

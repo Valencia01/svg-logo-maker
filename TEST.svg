@@ -3,8 +3,8 @@
      xmlns="http://www.w3.org/2000/svg">
 
     
-    <polygon points="150, 18 244, 182 56, 182" fill="#db2534" />
-    <text x="150" y="140" font-size="50" text-anchor="middle" fill="#d4669d">KVS</text>
+    <rect x="60" y="10" width="170" height="170" fill="#db2534"/>
+    <text x="150" y="110" font-size="50" text-anchor="middle" fill="white">AKE</text>
     
 
 </svg>

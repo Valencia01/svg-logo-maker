@@ -17,7 +17,7 @@ This prompts the user with multiple questions which is then used to create an SV
 
 ### Executing program
 
-[Video]()
+[Video](https://drive.google.com/file/d/1wtyt4WEKM9S1fhmkLsorFoShEWgUpQ7s/view)
 
 ## Author(s)
 
@@ -37,3 +37,5 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 N/A
 
 ## Deployed Program
+
+![demo picture](/assets/images/img1.jpg)
